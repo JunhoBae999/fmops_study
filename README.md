@@ -4,6 +4,7 @@
 
 ### 읽을거리
 https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/
+
 https://tech.kakaoenterprise.com/196?fbclid=IwAR0Aji8h4RTJX0CIfab1EoX7-xSVOVSX4e-aPLCrmJlHL59W9i7iSwsNfCA_aem_th_ASd4Xh7Q7coJR0KTVl1qClX7DdxSCaGK3GIul5FywLTi0S37EQHEWskknTz4YruSj98
 
 ### 논문
