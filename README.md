@@ -9,6 +9,8 @@ FMOps란? https://tech.kakaoenterprise.com/196?fbclid=IwAR0Aji8h4RTJX0CIfab1EoX7
 
 프롬프트 엔지니어링 가이드 : https://www.promptingguide.ai/techniques/cot
 
+볼만한 문서들 : https://a16z.com/2023/05/25/ai-canon/
+
 
 ### 논문
 Microservice reference architecture design: A multi-case study
