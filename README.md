@@ -14,3 +14,5 @@ FMOps란? https://tech.kakaoenterprise.com/196?fbclid=IwAR0Aji8h4RTJX0CIfab1EoX7
 
 ### 논문
 Microservice reference architecture design: A multi-case study
+
+Pre-train, Prompt, and Predict : A Systemic Survey of Prompting Methods in Natural Language Processing
